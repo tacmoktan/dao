@@ -4,7 +4,7 @@ import styled from "styled-components";
 export const CustomRow = styled.div`
   display: grid;
   grid-template-columns:
-    minmax(auto, 18.5%) minmax(auto, 28%) minmax(auto, 15.2%)
+    minmax(auto, 18.5%) minmax(300px, 28%) minmax(auto, 15.2%)
     minmax(auto, 21.8%) minmax(auto, auto);
   align-items: center;
   height: 72px;
