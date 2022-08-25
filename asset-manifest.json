@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dao/static/css/main.f757d937.css",
+    "main.js": "/dao/static/js/main.0e7c5164.js",
+    "static/js/787.28cb0dcd.chunk.js": "/dao/static/js/787.28cb0dcd.chunk.js",
+    "static/media/8.svg": "/dao/static/media/8.7c21261287b2ac1cdb29dca49f0cc739.svg",
+    "static/media/6.svg": "/dao/static/media/6.89429b08c19ffd71a56b005ca013830b.svg",
+    "static/media/5.svg": "/dao/static/media/5.6fc9115beac16d72985cad98b2ed0109.svg",
+    "static/media/4.svg": "/dao/static/media/4.b4cadc91295c9b80caf93a6d86c79b7f.svg",
+    "static/media/9.svg": "/dao/static/media/9.c2d6bc1cf823a99fa9d2151c990a705f.svg",
+    "static/media/7.svg": "/dao/static/media/7.dd8c519343060d5366371f42b57ac86f.svg",
+    "static/media/1.svg": "/dao/static/media/1.4e0d6cbb9681dd83a0fd829d5428c0d0.svg",
+    "static/media/2.svg": "/dao/static/media/2.030b24b0022c6dea6c3c56c95562dd02.svg",
+    "static/media/3.svg": "/dao/static/media/3.e18d91d48b9022dc645ad8a08769f47e.svg",
+    "index.html": "/dao/index.html",
+    "main.f757d937.css.map": "/dao/static/css/main.f757d937.css.map",
+    "main.0e7c5164.js.map": "/dao/static/js/main.0e7c5164.js.map",
+    "787.28cb0dcd.chunk.js.map": "/dao/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f757d937.css",
+    "static/js/main.0e7c5164.js"
+  ]
+}
