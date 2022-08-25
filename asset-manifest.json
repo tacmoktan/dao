@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dao/static/css/main.f757d937.css",
-    "main.js": "/dao/static/js/main.f1a5f047.js",
+    "main.js": "/dao/static/js/main.466cdcca.js",
     "static/js/787.28cb0dcd.chunk.js": "/dao/static/js/787.28cb0dcd.chunk.js",
     "static/media/8.svg": "/dao/static/media/8.7c21261287b2ac1cdb29dca49f0cc739.svg",
     "static/media/6.svg": "/dao/static/media/6.89429b08c19ffd71a56b005ca013830b.svg",
@@ -14,11 +14,11 @@
     "static/media/3.svg": "/dao/static/media/3.e18d91d48b9022dc645ad8a08769f47e.svg",
     "index.html": "/dao/index.html",
     "main.f757d937.css.map": "/dao/static/css/main.f757d937.css.map",
-    "main.f1a5f047.js.map": "/dao/static/js/main.f1a5f047.js.map",
+    "main.466cdcca.js.map": "/dao/static/js/main.466cdcca.js.map",
     "787.28cb0dcd.chunk.js.map": "/dao/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f757d937.css",
-    "static/js/main.f1a5f047.js"
+    "static/js/main.466cdcca.js"
   ]
 }
