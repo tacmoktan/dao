@@ -20,6 +20,7 @@ export const CustomRow = styled.div`
     font-size: 14px;
     line-height: 22px;
     color: #b7b3c1;
+    margin: 0;
   }
   > h5,
   > div {
